@@ -98,8 +98,8 @@ window.WINE_DATA = [
             "priceZakup": "1752",
             "priceBokal": "900",
             "supplier": "ДП",
-            "tag": "32",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Коравин"
           },
           {
             "year": "2023",
@@ -178,8 +178,8 @@ window.WINE_DATA = [
             "priceZakup": "6608",
             "priceBokal": "2500",
             "supplier": "Файн",
-            "tag": "32",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Коравин"
           },
           {
             "year": "2022",
@@ -188,8 +188,8 @@ window.WINE_DATA = [
             "priceZakup": "3928",
             "priceBokal": "1700",
             "supplier": "РВК",
-            "tag": "32",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Коравин"
           },
           {
             "year": "2022",
@@ -198,8 +198,8 @@ window.WINE_DATA = [
             "priceZakup": "11572.199999999999",
             "priceBokal": "3800",
             "supplier": "АСТ",
-            "tag": "32",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Коравин"
           }
         ]
       }
@@ -338,8 +338,8 @@ window.WINE_DATA = [
             "priceZakup": "5219.5",
             "priceBokal": "12300",
             "supplier": "Симпл",
-            "tag": "76",
-            "tag2": ""
+            "tag": "",
+            "tag2": "0,375 (DEMI)"
           },
           {
             "year": "2015",
@@ -398,8 +398,8 @@ window.WINE_DATA = [
             "priceZakup": "43080",
             "priceBokal": "87000",
             "supplier": "Онли",
-            "tag": "112",
-            "tag2": ""
+            "tag": "",
+            "tag2": "3L (jEROBOAM)"
           },
           {
             "year": "NV",
@@ -448,8 +448,8 @@ window.WINE_DATA = [
             "priceZakup": "12094.500000000002",
             "priceBokal": "27000",
             "supplier": "Симпл",
-            "tag": "21",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rose"
           },
           {
             "year": "NV",
@@ -458,8 +458,8 @@ window.WINE_DATA = [
             "priceZakup": "6442.2",
             "priceBokal": "15500",
             "supplier": "АСТ",
-            "tag": "21",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rose"
           },
           {
             "year": "2018",
@@ -488,8 +488,8 @@ window.WINE_DATA = [
             "priceZakup": "3223",
             "priceBokal": "8300",
             "supplier": "Лудинг",
-            "tag": "98",
-            "tag2": ""
+            "tag": "",
+            "tag2": "0,375 (demi)"
           },
           {
             "year": "2019",
@@ -518,8 +518,8 @@ window.WINE_DATA = [
             "priceZakup": "11845",
             "priceBokal": "31000",
             "supplier": "Лудинг",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           },
           {
             "year": "2018",
@@ -538,8 +538,8 @@ window.WINE_DATA = [
             "priceZakup": "15848.4",
             "priceBokal": "38000",
             "supplier": "АСТ",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           }
         ]
       },
@@ -553,8 +553,8 @@ window.WINE_DATA = [
             "priceZakup": "14536",
             "priceBokal": "29000",
             "supplier": "РВК",
-            "tag": "98",
-            "tag2": ""
+            "tag": "",
+            "tag2": "0,375 (demi)"
           },
           {
             "year": "NV",
@@ -583,8 +583,8 @@ window.WINE_DATA = [
             "priceZakup": "26752",
             "priceBokal": "58000",
             "supplier": "Онли",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           },
           {
             "year": "2019",
@@ -720,6 +720,7 @@ window.WINE_DATA = [
             "year": "NV",
             "name": "Nos Moments Carte Blanche",
             "producer": "MAXIME BLIN",
+            "priceZakup": "5514",
             "priceBokal": "13500",
             "supplier": "А Ля воле",
             "tag": "",
@@ -729,6 +730,7 @@ window.WINE_DATA = [
             "year": "2019",
             "name": "Bandite Le Grand Chemin",
             "producer": "ROGER COULON",
+            "priceZakup": "16194",
             "priceBokal": "32000",
             "supplier": "А Ля воле",
             "tag": "",
@@ -738,10 +740,11 @@ window.WINE_DATA = [
             "year": "2020",
             "name": "Rosélie Rosé de Saignée",
             "producer": "ROGER COULON",
+            "priceZakup": "16740",
             "priceBokal": "32000",
             "supplier": "А Ля воле",
-            "tag": "21",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rose"
           },
           {
             "year": "NV",
@@ -760,8 +763,8 @@ window.WINE_DATA = [
             "priceZakup": "529200",
             "priceBokal": "900000",
             "supplier": "Онли",
-            "tag": "147",
-            "tag2": ""
+            "tag": "",
+            "tag2": "6 BOTTLES LIEUX-DITS"
           },
           {
             "year": "2022",
@@ -780,8 +783,8 @@ window.WINE_DATA = [
             "priceZakup": "16488",
             "priceBokal": "43000",
             "supplier": "РВК",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           },
           {
             "year": "2019",
@@ -900,8 +903,8 @@ window.WINE_DATA = [
             "priceZakup": "9150",
             "priceBokal": "24000",
             "supplier": "Вайн банк",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           }
         ]
       },
@@ -1145,8 +1148,8 @@ window.WINE_DATA = [
             "priceZakup": "11721.5",
             "priceBokal": "29000",
             "supplier": "Аутентик",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           },
           {
             "year": "2023",
@@ -1190,8 +1193,8 @@ window.WINE_DATA = [
             "priceZakup": "39907.799999999996",
             "priceBokal": "78000",
             "supplier": "АСТ",
-            "tag": "237",
-            "tag2": ""
+            "tag": "",
+            "tag2": "0,375(demi) sweet"
           }
         ]
       },
@@ -1280,8 +1283,8 @@ window.WINE_DATA = [
             "priceZakup": "4494",
             "priceBokal": "11500",
             "supplier": "Симпл",
-            "tag": "21",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rose"
           },
           {
             "year": "2018",
@@ -1315,8 +1318,8 @@ window.WINE_DATA = [
             "priceZakup": "2394",
             "priceBokal": "7500",
             "supplier": "Симпл",
-            "tag": "260",
-            "tag2": ""
+            "tag": "",
+            "tag2": "0,375(demi)"
           },
           {
             "year": "2022",
@@ -1420,8 +1423,8 @@ window.WINE_DATA = [
             "priceZakup": "7565",
             "priceBokal": "16000",
             "supplier": "Аутентик",
-            "tag": "21",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rose"
           },
           {
             "year": "2024",
@@ -1430,8 +1433,8 @@ window.WINE_DATA = [
             "priceZakup": "7216.5",
             "priceBokal": "15500",
             "supplier": "Аутентик",
-            "tag": "286",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rouge"
           }
         ]
       },
@@ -1605,8 +1608,8 @@ window.WINE_DATA = [
             "priceZakup": "6247.5",
             "priceBokal": "14000",
             "supplier": "Файн",
-            "tag": "317",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Blanc"
           },
           {
             "year": "2024",
@@ -1615,8 +1618,8 @@ window.WINE_DATA = [
             "priceZakup": "3568.5",
             "priceBokal": "9000",
             "supplier": "ДП",
-            "tag": "286",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Rouge"
           }
         ]
       }
@@ -1645,8 +1648,8 @@ window.WINE_DATA = [
             "priceZakup": "1351.5",
             "priceBokal": "3500",
             "supplier": "Аутентик",
-            "tag": "327",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Orange"
           },
           {
             "year": "2023",
@@ -1710,8 +1713,8 @@ window.WINE_DATA = [
             "priceZakup": "11889",
             "priceBokal": "28000",
             "supplier": "Симпл",
-            "tag": "54",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Magnum"
           },
           {
             "year": "2022",
@@ -1835,17 +1838,18 @@ window.WINE_DATA = [
             "priceZakup": "8302.7999999999993",
             "priceBokal": "19000",
             "supplier": "АСТ",
-            "tag": "362",
-            "tag2": ""
+            "tag": "",
+            "tag2": "USA"
           },
           {
             "year": "2019",
             "name": "Pinot Noir",
             "producer": "Beaux Freres",
+            "priceZakup": "18444",
             "priceBokal": "38000",
             "supplier": "Ладога",
-            "tag": "362",
-            "tag2": ""
+            "tag": "",
+            "tag2": "USA"
           },
           {
             "year": "2020",
@@ -1854,17 +1858,18 @@ window.WINE_DATA = [
             "priceZakup": "17727.599999999999",
             "priceBokal": "36000",
             "supplier": "АСТ",
-            "tag": "362",
-            "tag2": ""
+            "tag": "",
+            "tag2": "USA"
           },
           {
             "year": "2016",
             "name": "Sena",
             "producer": "Vina Sena",
+            "priceZakup": "19666",
             "priceBokal": "42000",
             "supplier": "Ладога",
-            "tag": "365",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Chile"
           },
           {
             "year": "2023",
@@ -1873,8 +1878,8 @@ window.WINE_DATA = [
             "priceZakup": "1690",
             "priceBokal": "6000",
             "supplier": "ДП",
-            "tag": "368",
-            "tag2": ""
+            "tag": "",
+            "tag2": "Argentina"
           },
           {
             "year": "2022",
@@ -1893,8 +1898,8 @@ window.WINE_DATA = [
             "priceZakup": "2394",
             "priceBokal": "6500",
             "supplier": "Симпл",
-            "tag": "372",
-            "tag2": ""
+            "tag": "",
+            "tag2": "South Africa"
           },
           {
             "year": "2021",

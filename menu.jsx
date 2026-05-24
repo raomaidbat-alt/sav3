@@ -111,19 +111,22 @@ function WineRow({ w, p, tweaks }) {
       <div style={{ minWidth: 0 }}>
         <div style={{ whiteSpace: 'normal', overflow: 'hidden', textOverflow: 'ellipsis' }}>
           {w.name}
-          {showTags && w.tag && !/^\d+$/.test(w.tag) &&
-          <span style={{
-            marginLeft: 8, padding: '1px 6px',
-            fontSize: bodySize - 3,
-            border: `0.5px solid ${p.soft}`,
-            color: p.soft,
-            borderRadius: 2,
-            textTransform: 'uppercase',
-            letterSpacing: '0.06em',
-            verticalAlign: 'middle',
-            whiteSpace: 'nowrap'
-          }}>{w.tag}</span>
-          }
+          {showTags && [w.tag, w.tag2].filter(Boolean).map((t, i) => {
+            const isFormat = /demi|magnum|jeroboam|bottles|коравин|0,375|3l/i.test(t);
+            return (
+              <span key={i} style={{
+                marginLeft: 8, padding: '1px 6px',
+                fontSize: bodySize - 3,
+                border: `0.5px solid ${isFormat ? p.accent : p.soft}`,
+                color: isFormat ? p.accent : p.soft,
+                borderRadius: 2,
+                textTransform: 'uppercase',
+                letterSpacing: '0.06em',
+                verticalAlign: 'middle',
+                whiteSpace: 'nowrap'
+              }}>{t}</span>
+            );
+          })}
         </div>
         <div style={{ color: p.muted, fontSize: bodySize - 1, marginTop: 2 }}>
           {w.producer}
